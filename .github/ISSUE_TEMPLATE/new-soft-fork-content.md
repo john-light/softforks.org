@@ -1,6 +1,6 @@
 ---
 name: New soft fork content
-about: Template for adding new content to softforks.org
+about: Template for adding new soft fork content to softforks.org
 title: ''
 labels: ''
 assignees: ''
