@@ -1,6 +1,6 @@
 ---
 name: New soft fork use case content
-about: Template for adding new soft fork use case content to softforks.org.
+about: Template for adding new soft fork use case content to softforks.org
 title: ''
 labels: ''
 assignees: ''
