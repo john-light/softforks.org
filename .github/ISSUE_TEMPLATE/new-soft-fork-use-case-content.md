@@ -7,12 +7,14 @@ assignees: ''
 
 ---
 
+_Feel free to delete any of the template text below. It's just there to help if you need it._
+
 Want to add new content to softforks.org? There are only two rules:
 
 1. It must be relevant to an active bitcoin soft fork proposal.
 2. It should only **add** content, it should not **delete** content. Some exceptions may be made for editing or if the factual accuracy of existing content is in question. Feel free to create an issue to discuss.
 
-Also feel free to add or remove anything below that you do or do not need. If you want to add content for more than one soft fork or use case, please open a different issue for each so they can be evaluated independently.
+If you want to add content for more than one soft fork or use case, please open a different issue for each so they can be evaluated independently.
 
 ## New use case content
 
