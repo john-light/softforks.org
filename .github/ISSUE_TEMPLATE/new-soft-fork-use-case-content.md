@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-_Feel free to delete any of the template text below. It's just there to help if you need it._
+_Feel free to delete any of the issue template text. It's just here to help if you need it._
 
 Want to add new content to softforks.org? There are only two rules:
 
